@@ -1,0 +1,7 @@
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\guia4_part3\guia4_part3\guia4_part3\bin\Debug\guia4_part3.exe.config
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\guia4_part3\guia4_part3\guia4_part3\bin\Debug\guia4_part3.exe
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\guia4_part3\guia4_part3\guia4_part3\bin\Debug\guia4_part3.pdb
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\guia4_part3\guia4_part3\guia4_part3\obj\Debug\guia4_part3.csproj.AssemblyReference.cache
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\guia4_part3\guia4_part3\guia4_part3\obj\Debug\guia4_part3.csproj.CoreCompileInputs.cache
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\guia4_part3\guia4_part3\guia4_part3\obj\Debug\guia4_part3.exe
+C:\Users\tinch\OneDrive\Documentos\IDRA\PROGRAMACION\TP\guia4_part3\guia4_part3\guia4_part3\obj\Debug\guia4_part3.pdb
